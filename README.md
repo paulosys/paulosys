@@ -1,7 +1,7 @@
 ## Olá sou o Paulo.
 
 - 🔭 Atualmente trabalho como estagiário em desenvolvimento mobile com Flutter.
-- 🌱 Estudando desenvolvimento mobile React Native.
+- 🌱 Estudando desenvolvimento backend.
 
 <div align="center">
   <a href="https://github.com/paulosys">
