@@ -6,10 +6,10 @@ Sou desenvolvedor de software com foco em **backend**, atualmente trabalhando pr
 
 Tenho experiência com construção e manutenção de sistemas, modelagem de dados, integrações, testes automatizados e arquitetura de aplicações. Nos últimos tempos também venho aprofundando meus estudos em **Go**.
 
-🎓 **Sistemas para Internet — IFPB**
-💻 **Backend Developer — Python / Go**
-🔬 Interesse em **Inteligência Artificial e Sistemas Embarcados**
-📚 Estudando continuamente **arquitetura de software e backend**
+* **Sistemas para Internet — IFPB**
+* **Backend Developer — Python / Go**
+* Interesse em **Inteligência Artificial e Sistemas Embarcados**
+* Estudando continuamente **arquitetura de software e backend**
 
 ---
 
